@@ -1,0 +1,4 @@
+C:\Users\bigdg\OneDrive\Documents\C#Practice\.vscode\Practice2.cs\Snake\obj\Debug\net7.0\snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigdg\OneDrive\Documents\C#Practice\.vscode\Practice2.cs\Snake\obj\Debug\net7.0\snake.AssemblyInfoInputs.cache
+C:\Users\bigdg\OneDrive\Documents\C#Practice\.vscode\Practice2.cs\Snake\obj\Debug\net7.0\snake.AssemblyInfo.cs
+C:\Users\bigdg\OneDrive\Documents\C#Practice\.vscode\Practice2.cs\Snake\obj\Debug\net7.0\snake.csproj.CoreCompileInputs.cache

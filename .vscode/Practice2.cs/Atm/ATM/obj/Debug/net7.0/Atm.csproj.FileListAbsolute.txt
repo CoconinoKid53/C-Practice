@@ -1,0 +1,4 @@
+C:\Users\bigdg\OneDrive\Documents\C#Practice\.vscode\Practice2.cs\Atm\ATM\obj\Debug\net7.0\Atm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigdg\OneDrive\Documents\C#Practice\.vscode\Practice2.cs\Atm\ATM\obj\Debug\net7.0\Atm.AssemblyInfoInputs.cache
+C:\Users\bigdg\OneDrive\Documents\C#Practice\.vscode\Practice2.cs\Atm\ATM\obj\Debug\net7.0\Atm.AssemblyInfo.cs
+C:\Users\bigdg\OneDrive\Documents\C#Practice\.vscode\Practice2.cs\Atm\ATM\obj\Debug\net7.0\Atm.csproj.CoreCompileInputs.cache

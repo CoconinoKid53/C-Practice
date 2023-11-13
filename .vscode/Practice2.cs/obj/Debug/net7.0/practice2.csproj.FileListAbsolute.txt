@@ -1,0 +1,4 @@
+C:\Users\bigdg\OneDrive\Documents\C#Practice\.vscode\Practice2.cs\obj\Debug\net7.0\practice2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigdg\OneDrive\Documents\C#Practice\.vscode\Practice2.cs\obj\Debug\net7.0\practice2.AssemblyInfoInputs.cache
+C:\Users\bigdg\OneDrive\Documents\C#Practice\.vscode\Practice2.cs\obj\Debug\net7.0\practice2.AssemblyInfo.cs
+C:\Users\bigdg\OneDrive\Documents\C#Practice\.vscode\Practice2.cs\obj\Debug\net7.0\practice2.csproj.CoreCompileInputs.cache
